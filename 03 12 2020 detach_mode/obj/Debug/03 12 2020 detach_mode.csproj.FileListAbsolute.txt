@@ -1,0 +1,10 @@
+D:\ado net\03 12 2020 detach_mode\03 12 2020 detach_mode\bin\Debug\03 12 2020 detach_mode.exe.config
+D:\ado net\03 12 2020 detach_mode\03 12 2020 detach_mode\bin\Debug\03 12 2020 detach_mode.exe
+D:\ado net\03 12 2020 detach_mode\03 12 2020 detach_mode\bin\Debug\03 12 2020 detach_mode.pdb
+D:\ado net\03 12 2020 detach_mode\03 12 2020 detach_mode\obj\Debug\03 12 2020 detach_mode.csprojAssemblyReference.cache
+D:\ado net\03 12 2020 detach_mode\03 12 2020 detach_mode\obj\Debug\_03_12_2020_detach_mode.Form1.resources
+D:\ado net\03 12 2020 detach_mode\03 12 2020 detach_mode\obj\Debug\_03_12_2020_detach_mode.Properties.Resources.resources
+D:\ado net\03 12 2020 detach_mode\03 12 2020 detach_mode\obj\Debug\03 12 2020 detach_mode.csproj.GenerateResource.cache
+D:\ado net\03 12 2020 detach_mode\03 12 2020 detach_mode\obj\Debug\03 12 2020 detach_mode.csproj.CoreCompileInputs.cache
+D:\ado net\03 12 2020 detach_mode\03 12 2020 detach_mode\obj\Debug\03 12 2020 detach_mode.exe
+D:\ado net\03 12 2020 detach_mode\03 12 2020 detach_mode\obj\Debug\03 12 2020 detach_mode.pdb
